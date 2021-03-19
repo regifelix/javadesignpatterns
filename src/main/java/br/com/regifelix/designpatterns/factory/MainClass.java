@@ -1,6 +1,6 @@
 package br.com.regifelix.designpatterns.factory;
 
-public class Main {
+public class MainClass {
 
     public static Transport transport;
 
